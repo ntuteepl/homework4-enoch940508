@@ -17,14 +17,14 @@ int main()
             {
                 if((g%m)==0)
                     {
-                        printf("No ");
+                        printf("NO ");
                         break;
                     }
 
             }
             if(g==m)
                     {
-                        printf("Yes ");
+                        printf("YES ");
                     }
     }
 
@@ -35,7 +35,7 @@ int main()
 
     else
     {
-        printf("No");
+        printf("NO");
     }
 
 }
