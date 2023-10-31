@@ -13,7 +13,7 @@ int main()
     int dsch[10][20]={0};
 
 
-    for(int i=0;i<n;i++)//排序
+    for(int i=0;i<n;i++)
     {
         for(int j=i;j<n;j++)
         {
